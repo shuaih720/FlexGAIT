@@ -1,4 +1,4 @@
-# OmniECG
+# FlexGait
 FlexGait: Fusion-guided Unimodal Learning for Flexible Diagnosis of Anterior Cruciate Ligament Deficiency
 
 <!-- https://www.xxxxxxxxx.com/
